@@ -8,9 +8,12 @@ I am driven by a passion for continuous learning and growth, and I thrive in dyn
 
 ## Featured Projects
 
-- [JSON and CSV Translator using AI](link): Independently developed a JSON and CSV file translation tool leveraging the power of artificial intelligence and the OpenAI API. Utilized Next.js for the project's frontend to provide a user-friendly web interface. Implemented the OpenAI API to enable automated, high-quality translations between various languages. **Next.js, API OpenAI, Tailwind CSS**
-- [Cicla](link): Cicla is an app designed to help women understand how their menstrual cycle affects various aspects of their lives, such as nutrition and sports. In this project developed by women, I led the tech part, developing an app for both iOS and Android using Flutter. Collaborated with an exceptional group of skilled and professional women from diverse backgrounds. **Flutter, Firebase, Next.js**
-- [Web3 Developer @Otaku](link): Developed and launched "Otaku," a decentralized Webtoon platform aimed at empowering anime creators. This side project was accepted into the Encode Club and Women Build Web3 startup accelerator programs, highlighting my commitment to innovation and the development of blockchain-based solutions. Collaborated with developers from different countries to bring this project to life. **Next.js, Rainbowkit, Wagmi, Wallets, Lens Protocol, Apollo client, Lens API**
+- [JSON and CSV Translator using AI](link): Independently developed a JSON and CSV file translation tool leveraging the power of artificial intelligence and the OpenAI API. Utilized Next.js for the project's frontend to provide a user-friendly web interface. Implemented the OpenAI API to enable automated, high-quality translations between various languages.
+  **Next.js, API OpenAI, Tailwind CSS**
+- [Cicla](link): Cicla is an app designed to help women understand how their menstrual cycle affects various aspects of their lives, such as nutrition and sports. In this project developed by women, I led the tech part, developing an app for both iOS and Android using Flutter. Collaborated with an exceptional group of skilled and professional women from diverse backgrounds.
+  **Flutter, Firebase, Next.js**
+- [Web3 Developer @Otaku](link): Developed and launched "Otaku," a decentralized Webtoon platform aimed at empowering anime creators. This side project was accepted into the Encode Club and Women Build Web3 startup accelerator programs, highlighting my commitment to innovation and the development of blockchain-based solutions. Collaborated with developers from different countries to bring this project to life.
+  **Next.js, Rainbowkit, Wagmi, Wallets, Lens Protocol, Apollo client, Lens API**
 
 ## Contact
 
