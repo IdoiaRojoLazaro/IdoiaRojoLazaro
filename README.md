@@ -14,8 +14,8 @@ I am driven by a passion for continuous learning and growth, and I thrive in dyn
 
 ## Contact
 
-- LinkedIn: [](https://www.linkedin.com/in/idoia-rojo-l%C3%A1zaro-8953a9a4/)
-- Email: [](rojolazaro.idoia@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/idoia-rojo-l%C3%A1zaro-8953a9a4/)
+- [Email](rojolazaro.idoia@gmail.com)
 
  Thank you for visiting my GitHub profile! Feel free to contact me if you have any questions or suggestions.
 
